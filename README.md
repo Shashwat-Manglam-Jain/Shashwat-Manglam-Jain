@@ -1,62 +1,159 @@
-
 <h1 align="center">Hi 👋, I'm Shashwat Manglam Jain</h1>
-<h3 align="center">Data Wizardry: Merging ML, Blockchain, and Full Stack Development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-manglam-jain&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat-manglam-jain" /> </p>
+<h3 align="center">
+Freelance Full-Stack, Backend, DevOps & AI Developer  
+<br/>
+Python • Django • Flask • TypeScript • NestJS • Next.js • Prisma • MERN • DevOps • ML • AI
+</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on [Image Classification Convolution Neural Network](https://github.com/Shashwat-Manglam-Jain/cat_vs_dog_convolution_neural_network.git)
-
-- 👯 I’m looking to collaborate on **Generative Adversarial Networks (GANs)**
-
-- 💬 Ask me about **Deep Learning, Machine Learning, Blockchain, and Full Stack Development**
-
-- 📫 How to reach me **shashwat100k@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashwat-manglam-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat manglam jain" height="30" width="40" /></a>
-<a href="https://kaggle.com/shashwatmanglamjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shashwatmanglamjain" height="30" width="40" /></a>
-<a href="https://instagram.com/shashwat_manglam_jain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashwat_manglam_jain_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashwatmanglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwatmanglam" height="30" width="40" /></a>
+  <img
+    src="https://komarev.com/ghpvc/?username=shashwat-manglam-jain&label=Profile%20views&color=0e75b6&style=flat"
+    alt="shashwat-manglam-jain" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/368/176/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-bitcoin-angle-triangle-logo.png" alt="blockchain" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+---
+
+## 👨‍💻 About Me
+
+I am a **Freelance Software Developer** specializing in **Backend Systems, Full-Stack Applications, DevOps, and AI/ML solutions**.  
+I help **startups, founders, and businesses** build **secure, scalable, cloud-ready products**.
+
+- 💼 **Open for freelance & contract projects**
+- ⚙️ Strong focus on **backend architecture, APIs, databases, and DevOps**
+- ☁️ Experience deploying & scaling applications on **cloud & Kubernetes**
+- 🧠 AI/ML integration into production systems
+- 🚀 End-to-end ownership: **design → build → deploy → monitor**
+
+---
+
+## 🔭 Current Work
+
+- 💼 Working as a **Freelance Software Developer**, delivering **client projects**
+- ⚙️ Building **backend APIs, full-stack apps, mobile apps, and AI/ML systems**
+- ☁️ Deploying applications using **Docker, Kubernetes, and cloud services**
+- 🔐 Implementing **secure authentication, CI/CD, and monitoring**
+- 🚀 Delivering production-ready systems from **requirements → deployment**
+
+---
+
+## 🤝 Open for Freelance Projects
+
+### 💻 Web & Backend
+- Backend APIs (Django, Flask, NestJS)
+- Full-stack web apps (Next.js, React, MERN)
+- Authentication (JWT, Sessions, OAuth)
+- Payment gateways & subscriptions
+- Database design (PostgreSQL, MySQL, MongoDB, Prisma)
+
+### ☁️ DevOps & Cloud
+- Docker containerization
+- Kubernetes deployment & scaling
+- AWS cloud setup (EC2, S3, RDS, IAM)
+- Infrastructure as Code (Terraform)
+- CI/CD pipelines (GitHub Actions)
+- Monitoring & observability (Prometheus, Grafana)
+- Configuration management (Ansible)
+- Kubernetes package management (Helm)
+
+### 🤖 AI & Machine Learning
+- Machine Learning model development
+- Deep Learning (CNNs, GANs)
+- Computer vision & image classification
+- AI model integration into web/mobile apps
+
+### 📱 Mobile
+- React Native cross-platform apps
+- Android apps (Java)
+
+📩 **Hire me:** **shashwat100k@gmail.com**
+
+---
+
+## 💬 Ask Me About
+**Python, Django, Flask, TypeScript, NestJS, Next.js, Prisma, DevOps, Docker, Kubernetes, AWS, Terraform, Helm, Prometheus, Grafana, AI, Machine Learning**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/shashwat-manglam-jain" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/shashwatmanglamjain" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/shashwatmanglam" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Highlighted Skills:</h3>
-<ul>
-  <li>🚀 <strong>Java App Development</strong> – Developing feature-rich Android applications with Java.</li>
-  <li>🛠 <strong>MERN Stack</strong> – Proficient in MongoDB, Express.js, React, and Node.js for building dynamic web applications.</li>
-  <li>📱 <strong>React Native</strong> – Crafting seamless, cross-platform mobile experiences with React Native.</li>
-  <li>💻 <strong>Blockchain</strong> – Expertise in smart contracts, IPFS, and decentralized applications.</li>
-  <li>🧠 <strong>Machine Learning & Deep Learning</strong> – Skilled in neural networks, CNNs, and GANs for data-driven insights.</li>
-</ul>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-manglam-jain&show_icons=true&locale=en&layout=compact" alt="shashwat-manglam-jain" /></p>
+## 🛠️ Technologies & Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-manglam-jain&show_icons=true&locale=en" alt="shashwat-manglam-jain" /></p>
+### Backend & Full Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-manglam-jain&" alt="shashwat-manglam-jain" /></p>
+### Databases & ORM
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/>
+</p>
+
+### AI / ML
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+---
+
+## ⭐ What Clients Get
+
+- Cloud-ready & scalable systems
+- Secure APIs & backend architecture
+- CI/CD & DevOps best practices
+- AI-powered features where needed
+- Clear communication & reliable delivery
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left"
+    src="https://github-readme-stats.ver
