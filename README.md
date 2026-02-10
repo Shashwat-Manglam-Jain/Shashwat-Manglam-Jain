@@ -9,7 +9,7 @@ I’m a **Freelance Software Engineer** who bridges the gap between complex back
 
 ---
 
-### 🚀 How I can help your project:
+### How I can help your project:
 
 * **Full-Stack Development:** I build end-to-end products using the MERN stack or Next.js, focusing on performance and security.
 * **Infrastructure Scaling:** If your app is slowing down or your AWS bill is rising, I help optimize and containerize using Docker/K8s.
@@ -17,7 +17,7 @@ I’m a **Freelance Software Engineer** who bridges the gap between complex back
 
 ---
 
-### 🧰 My Toolbox
+### My Toolbox
 
 * **Languages:** Python, TypeScript, Java, SQL
 * **Frameworks:** Django, Flask, NestJS, Next.js, React Native
@@ -27,17 +27,17 @@ I’m a **Freelance Software Engineer** who bridges the gap between complex back
 
 ---
 
-### 🤝 Let's Chat
+### Let's Chat
 
 I’m always open to discussing new projects, technical challenges, or the future of AI.
 
-- 📧 **Email:** [shashwat100k@gmail.com](mailto:shashwat100k@gmail.com)
-- 💼 **LinkedIn:** [shashwat-manglam-jain](https://linkedin.com/in/shashwat-manglam-jain)
-- 🏆 **Competitive Coding:** [LeetCode](https://www.leetcode.com/shashwatmanglam) | [Kaggle](https://kaggle.com/shashwatmanglamjain)
+-  **Email:** [shashwat100k@gmail.com](mailto:shashwat100k@gmail.com)
+-  **LinkedIn:** [shashwat-manglam-jain](https://linkedin.com/in/shashwat-manglam-jain)
+-  **Competitive Coding:** [LeetCode](https://www.leetcode.com/shashwatmanglam) | [Kaggle](https://kaggle.com/shashwatmanglamjain)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shashwat-manglam-jain&show_icons=true&theme=vivid&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-manglam-jain&layout=compact&theme=vivid&hide_border=true" />
