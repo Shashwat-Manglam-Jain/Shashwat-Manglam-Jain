@@ -39,8 +39,8 @@ I’m always open to discussing new projects, technical challenges, or the futur
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashwat-manglam-jain&show_icons=true&theme=vivid&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-manglam-jain&layout=compact&theme=vivid&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shashwat-manglam-jain&show_icons=true&theme=vivid&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-manglam-jain&layout=compact&theme=vivid&hide_border=true" />
 </p>
 
 <p align="center">
